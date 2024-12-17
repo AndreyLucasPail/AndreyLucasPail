@@ -51,6 +51,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
    <a href="http://andreylucaspail.vercel.app/" target="_blank">
-    <img src="https://img.freepik.com/premium-vector/alp-logo-design_705304-351.jpg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://cdn1.vectorstock.com/i/1000x1000/41/80/monogram-letters-initial-logo-design-alp-vector-28284180.jpg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
