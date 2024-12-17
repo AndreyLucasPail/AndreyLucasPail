@@ -50,14 +50,7 @@
   <a href="https://www.linkedin.com/in/andrey-lucas-pail-a1626525a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-<div align="left">
-  <a href="http://andreylucaspail.vercel.app/" target="_blank">
+   <a href="http://andreylucaspail.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3665/3665909.png" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
