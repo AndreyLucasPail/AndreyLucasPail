@@ -53,3 +53,11 @@
 </div>
 
 ###
+<div align="left">
+  <a href="http://andreylucaspail.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3665/3665909.png" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
